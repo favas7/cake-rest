@@ -1,0 +1,228 @@
+body
+{
+      overflow-x: hidden;
+}
+.div1
+{
+      background-image: url(image/6.webp);
+      background-repeat: no-repeat;
+      height: 100vh;
+      background-size: cover;
+      position: relative;
+
+     
+}
+.div1::before{
+      content: "";
+      position: absolute;
+      height:100%;
+      width:100%;
+      top:0;
+      left:0;
+      background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3));
+}
+.text1
+{
+     width: 100%;
+      text-align: center;
+      font-family: Caveat, cursive;
+      box-sizing: border-box;
+      color: rgb(255, 255, 251);
+      display: block;
+      font-size: 50px;
+      font-weight: 400;
+      outline-color: rgb(255, 249, 219);
+      
+      
+      
+
+}
+.img1
+{
+      width: 90%;
+      
+}
+.div2
+{
+      margin-top: 20%;
+}
+.naver{
+      margin-left: 50%;
+}
+
+.btnimg1
+{
+      
+    width: 2%;
+    cursor: pointer;
+    
+
+      
+      
+}
+
+.btn1
+{
+      border-radius: 8px;
+      cursor: pointer;
+}
+.text2
+{
+     font-family: Caveat, cursive; 
+      text-align: center;
+      padding-top: 5%;
+      color: aliceblue;
+}
+.text3
+{
+      text-align: center;
+      font-family: Montserrat, sans-serif;
+      color: aliceblue;
+      font-size: 40px;
+      font-weight: 700;
+      
+}
+.div3
+{
+      background-image: url(image/banner-about.jpg);
+      background-repeat: no-repeat;
+      height: 100vh;
+      position: relative;
+      
+}
+.text4
+{
+      text-align: center;
+      font-family: Montserrat, sans-serif;
+      font-size: 27px;
+      font-weight: 400;
+      width: 100%;
+      
+      
+      
+      
+}
+.text5
+{
+      color: aliceblue;   
+      padding-top: 1%;
+      
+      
+}
+.link1
+{
+      color: white;
+      margin-left: 45%;
+     font-size: large;
+     font-weight: 600;
+}
+.img2
+{
+      border-radius: 20%;
+      margin-left: 55%;
+      margin-top: 10%;
+      width: 40%;
+      
+}
+
+.div4
+{
+     background-image: url(image/footer-bg.png);
+     background-repeat: no-repeat;
+     position: relative;
+    
+}
+.button1
+{
+border-radius: 30px;
+background: transparent;
+width: 15%;
+height: 15%;
+transition: 0.3s;
+}
+.button1:hover
+{
+      background-color: rgb(14, 54, 78);
+     
+}
+.img3
+{
+      position: absolute;
+      width: 100%;
+}
+
+ .img4
+{
+      border-radius: 16%;
+}
+
+
+.div6
+{
+      background-image: url(image/opening-bg.png);
+      background-repeat: no-repeat;
+      height: 30vh;
+      position: relative;
+      
+}
+  .div8
+{
+
+      background-image: url(image/menu-01.webp);
+
+      background-repeat: no-repeat;
+      text-align: center;
+      font-weight: 900;
+      font-size: 80px;
+      background-color: cadetblue;
+      background-size: cover;
+      height:80vh;
+      margin-top: 10%;
+      color: white;
+      
+
+} 
+.div9
+{
+      background-image: url(image/menu-02.webp);
+      background-repeat: no-repeat;
+      text-align: center;
+      font-weight: 900;
+      font-size: 80px;
+      color: white;
+      background-size: cover;
+      height:80vh;
+      margin-top: 10%;
+
+
+} 
+
+.aa
+{
+      margin-top: 35%;
+}
+footer
+{
+      background-color: rgb(67, 69, 71);
+      align-items: center;
+
+}
+.div11
+{
+      
+      margin-left: 38%;
+}
+.div111
+{
+      margin-left: 45%;
+      cursor: pointer;
+}
+.btnimg1
+{
+      
+    width: 2%;
+    
+
+      
+      
+}
